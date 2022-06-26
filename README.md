@@ -1,5 +1,5 @@
 # java_calculator
-**자바 계산기 구현 미션 Repository / 김수미**
+**자바 계산기 구현 미션 Repository**
 <br><br>
 
 ## ✔️ 과제 요구사항
